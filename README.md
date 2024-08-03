@@ -16,17 +16,17 @@ Really love to work and explore on datascience and machine learning.. And loves 
 
 ## Portfolio
 
-Explore my other projects and know more about me here: [My Portfolio](https://silverstark18.github.io/AmarnathSiliveri/)
+Explore my other projects and know more about me here: [My Portfolio](https://AmarnathSiliveri.github.io/AmarnathSiliveri/)
 
-<a href="https://www.github.com/SilverStark18" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/SilverStark18?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<a href="https://www.github.com/AmarnathSiliveri" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/AmarnathSiliveri?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ---
 ###
 
 <div> <a href="https://twitter.com/Amarsiliveri" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/amarnath-siliveri18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/SilverStark18" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/AmarnathSiliveri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/itz.__.amar.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:amarlearns18215@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@amartalks25603" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="display: inline-block; border-radius: 5px; margin-right: 10px;">
@@ -72,29 +72,29 @@ Explore my other projects and know more about me here: [My Portfolio](https://si
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverStark18&layout=compact&theme=algolia" alt=SilverStark18 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarnathSiliveri&layout=compact&theme=algolia" alt=AmarnathSiliveri />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SilverStark18&show_icons=true&locale=en&theme=algolia" alt="SilverStark18" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmarnathSiliveri&show_icons=true&locale=en&theme=algolia" alt="AmarnathSiliveri" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SilverStark18&theme=algolia" alt="SilverStark18" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarnathSiliveri&theme=algolia" alt="AmarnathSiliveri" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/SilverStark18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilverStark18&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilverStark18&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilverStark18&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SilverStark18&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilverStark18&theme=algolia" height="180em" />
+<a href="https://github.com/AmarnathSiliveri">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmarnathSiliveri&theme=ayu_mirage" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmarnathSiliveri&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmarnathSiliveri&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmarnathSiliveri&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmarnathSiliveri&theme=algolia" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SilverStark18&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AmarnathSiliveri&theme=react-dark"/>
 
 
 ### Views
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/SilverStark18/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AmarnathSiliveri/count.svg?"  />
 </div>
 
 ###
