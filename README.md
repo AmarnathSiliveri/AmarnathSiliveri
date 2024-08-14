@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siliveri Amarnath
+Bonjour ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siliveri Amarnath
 =========================================================================================================================================
 
 Datascientist and Machine learning engineer
@@ -9,8 +9,8 @@ Datascientist and Machine learning engineer
 Really love to work and explore on datascience and machine learning.. And loves to learn to build new tech by leveraging the Datascience.
 
 *   🌍  I'm based in India
-*   ✉  You can contact me at [amarlearns18215@gmail.com](mailto:amarlearns18215@gmail.com )
-*   🧠  I'm learning R, MACHINE LEARNING
+*   ✉  You can contact me at [amarnathsiliveri@gmail.com](mailto:amarnathsiliveri@gmail.com )
+*   🧠  I'm learning R, MACHINE LEARNING,Generative AI
 *   🤝  I'm open to collaborating on Any type of. DATASCIENCE PROJECT, ML PROJECTS, ROBOTICS AND CREATIVE CONTENT MAKING
 *   ⚡  I CAN LEARN CONCEPT WAY QUICKER AND ALSO CAN GIVE A CREATIVE TOUCH TO IT
 
