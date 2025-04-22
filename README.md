@@ -16,7 +16,7 @@ Really love to work and explore on datascience and machine learning.. And loves 
 
 ## Portfolio
 
-Explore my other projects and know more about me here: [My Portfolio](https://AmarnathSiliveri.github.io/AmarnathSiliveri/)
+Explore my other projects and know more about me here: [My Portfolio](https://amarnathsiliveri.github.io/AmarnathSiliveri18/)
 
 <a href="https://www.github.com/AmarnathSiliveri" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/AmarnathSiliveri?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
