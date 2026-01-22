@@ -1,19 +1,17 @@
-Bonjour ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siliveri Amarnath
-=========================================================================================================================================
+# Bonjour <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Siliveri Amarnath
 
-Datascientist  , Machine learning engineer , HPC , LLM Enthusiast.
--------------------------------------------
+### 👨‍💻 Engineering Logic | 🎨 Creative Soul
+**Data Scientist • HPC • Machine Learning Engineer • LLM Explorer**
 
-###
+<!-- I am a technologist who treats code like poetry and data like paint. I leverage the raw power of **High-Performance Computing** to fuel the next generation of **Artificial Intelligence**. I believe that the best algorithms are the ones that not only solve problems but also inspire creativity.-->
 
-Really love to work and explore on datascience and machine learning.. And loves to learn to build new tech by leveraging the Datascience.
+---
 
-*   🌍  I'm based in India
-*   ✉  You can contact me at [amarnathsiliveri@gmail.com](mailto:amarnathsiliveri@gmail.com )
-*   🧠  I'm learning R, MACHINE LEARNING,Generative AI,HPC 
-*   🤝  I'm open to collaborating on Any type of. DATASCIENCE PROJECT, ML PROJECTS, ROBOTICS AND CREATIVE CONTENT MAKING,HPC
-*   ⚡  I CAN LEARN CONCEPT WAY QUICKER AND ALSO CAN GIVE A CREATIVE TOUCH TO IT
-
+- 🔭 **I’m currently weaving** logic with imagination in **R** and **GenAI**.
+- 🌍 **I’m based in** the vibrant tech landscape of **India**.
+- ⚡ **The "Spark"**: I turn abstract theory into deployed reality quicker than the average epoch. I bring a creative lens to hard engineering problems.
+- 🤝 **Let's Build**: Whether it's **Robotics**, **HPC Pipelines**, or **Creative ML**, I am ready to collaborate.
+- 📬 **Reach Out**: [amarnathsiliveri@gmail.com](mailto:amarnathsiliveri@gmail.com)
 ## Portfolio
 
 Explore my other projects and know more about me here: [My Portfolio](https://amarnathsiliveri.github.io/AmarnathSiliveri18/)
@@ -35,41 +33,75 @@ Explore my other projects and know more about me here: [My Portfolio](https://am
 <p align="left">
 <a href="https://twitter.com/Amarsiliveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Amarsiliveri" height="30" width="40" /></a><a href="https://linkedin.com/in/www.linkedin.com/in/amarnath-siliveri18" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amarnath-siliveri18" height="30" width="40" /></a><a href="https://kaggle.com/amarnathsiliveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="amarnathsiliveri" height="30" width="40" /></a><a href="https://instagram.com/itz.__.amar.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="itz.__.amar.__" height="30" width="40" /></a><a href="https://medium.com/https://medium.com/@amartalks25603" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="https://medium.com/@amartalks25603" height="30" width="40" /></a></p>
 
+<h2 align="left">🛠 Technical Skills</h2>
 
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/apache_hive-icon.svg" alt="Hive" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="36" height="36"/>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" width="36" height="36"/>
+<h3>👨‍💻 Programming Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<h3>⚙️ Data Engineering & Big Data</h3>
+<p>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
+<h3>🗄️ Databases</h3>
+<p>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3>📊 Data Analysis & Visualization</h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+<h3>👁️ Computer Vision & AI</h3>
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<h3>☁️ Cloud & Containers</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<h3>🔨 Version Control & IDEs</h3>
+<p>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+</td>
+<td valign="middle" width="40%">
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hneWNsdnVnNHlwZDhrZTl3Ymlsdm9wOGl4ejJrZGkyNXU5eWR2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xDyB4KAU7Y6qc/giphy.gif" width="100%" alt="Coding Animation" />
+<br>
+<br>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd1N3Y4eXA1cmo5bm5oZGFubGQ2b3k0bW0xbHRsYzNwdDc1cHI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif" width="100%" alt="Tony Stark Interface" />
+</div>
+</td>
+</tr>
+</table>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarnathSiliveri&layout=compact&theme=algolia" alt=AmarnathSiliveri />
@@ -91,10 +123,4 @@ Explore my other projects and know more about me here: [My Portfolio](https://am
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AmarnathSiliveri&theme=react-dark"/>
 
 
-### Views
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/AmarnathSiliveri/count.svg?"  />
-</div>
-
-###
