@@ -12,7 +12,10 @@
 - ⚡ **The "Spark"**: I turn abstract theory into deployed reality quicker than the average epoch. I bring a creative lens to hard engineering problems.
 - 🤝 **Let's Build**: Whether it's **Robotics**, **HPC Pipelines**, or **Creative ML**, I am ready to collaborate.
 - 📬 **Reach Out**: [amarnathsiliveri@gmail.com](mailto:amarnathsiliveri@gmail.com)
+
+---
 ## Portfolio
+---
 
 Explore my other projects and know more about me here: [My Portfolio](https://amarnathsiliveri.github.io/AmarnathSiliveri18/)
 
